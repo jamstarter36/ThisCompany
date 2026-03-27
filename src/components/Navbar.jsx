@@ -24,7 +24,7 @@ export default function Navbar() {
     >
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         <span className="font-mono text-3xl font-bold tracking-tight text-slate-800">
-          Code<span className="text-sky-500">Sucks</span>
+          Dev<span className="text-sky-500">Weave</span>
           <span className="text-slate-300">.</span>
         </span>
 

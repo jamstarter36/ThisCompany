@@ -7,7 +7,7 @@ export default function Footer() {
 
         <div>
           <span className="font-mono text-2xl font-bold text-slate-800">
-            Code<span className="text-sky-500">Sucks</span>
+            Dev<span className="text-sky-500">Weave</span>
             <span className="text-slate-300">.</span>
           </span>
           <p className="text-slate-500 text-sm mt-3 max-w-xs">
